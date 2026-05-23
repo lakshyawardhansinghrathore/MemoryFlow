@@ -1,7 +1,9 @@
 # 🧠 MemoryFlow
 
-## Meaning of the Name
+## 🌐 Live Demo
+**Try out the application here:** [MemoryFlow on Streamlit](https://memoryflow-2yswgu34vygalfjs32ighb.streamlit.app/)
 
+## Meaning of the Name
 **MemoryFlow** combines two important ideas behind the project:
 
 - **Memory** → Inspired by **LSTM (Long Short-Term Memory)** networks, which remember previous words and context while predicting the next word.
